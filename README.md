@@ -12,6 +12,6 @@ It was downloaded at: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfil
 
 ## Files
 * CodeBook.md - This is a codebook that describes the variables of the final output of the project, tidyData.txt
-* run_analysis.R - Script that processes and transforms the data into a tidy data set.
+* run_analysis.R - Script that processes and transforms the data into a tidy data set.  The script contains comments throughout to describe what was done and why.
 
 
